@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "629781266272-4hsa28pi8q7oroffov9f0giiomdoti1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cat.tecnocampus.mobileapps.chat_test",
+            "certificate_hash": "004d3461ec2ffb217c3fa3a1a01ef52a82a32450"
+          }
+        },
+        {
           "client_id": "629781266272-5v8s3jvqopeul2fml8g50jek9fc27qi6.apps.googleusercontent.com",
           "client_type": 3
         }
