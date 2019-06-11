@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629781266272",
+    "firebase_url": "https://fir-chat-concept-proof.firebaseio.com",
+    "project_id": "fir-chat-concept-proof",
+    "storage_bucket": "fir-chat-concept-proof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629781266272:android:0c20259d7e3b93cd",
+        "android_client_info": {
+          "package_name": "cat.tecnocampus.mobileapps.chat_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629781266272-5v8s3jvqopeul2fml8g50jek9fc27qi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQmnHSwdgebDJV0zchqggUk_ds7fCU0PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629781266272-5v8s3jvqopeul2fml8g50jek9fc27qi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
